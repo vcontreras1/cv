@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>CV de Valeria</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #fff;
+      color: #202124;
+      padding: 40px;
+    }
+    .result-title {
+      color: #1a0dab;
+      font-size: 18px;
+      cursor: pointer;
+      margin-bottom: 5px;
+    }
+    .result-url {
+      color: #006621;
+      font-size: 14px;
+      margin-bottom: 4px;
+    }
+    .result-snippet {
+      color: #545454;
+      font-size: 14px;
+      margin-bottom: 20px;
+    }
+  </style>
+</head>
+<body>
+
+<div id="modal" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.8); z-index:1000; align-items:center; justify-content:center;">
+  <div style="background:#fff; padding:20px; border-radius:8px; max-width:90%; max-height:90%; overflow:auto; position:relative;">
+    <span onclick="closeModal()" style="position:absolute; top:10px; right:15px; cursor:pointer; font-size:20px;">&times;</span>
+    <div id="modalContent"></div>
+  </div>
+</div>
+
+<script>
+  function openModal(content) {
+    document.getElementById('modalContent').innerHTML = content;
+    document.getElementById('modal').style.display = 'flex';
+  }
+  function closeModal() {
+    document.getElementById('modal').style.display = 'none';
+  }
+</script>
+
+<!-- Sección: Escritos -->
+<div class="result">
+  <div class="result-title" onclick="openModal('<h3>Escritos</h3><ul><li><strong>Better than a Cover Letter</strong></li></ul><p><em>Better than a Cover Letter</em> es una reflexión profunda sobre la identidad profesional, la búsqueda de propósito en el mercado laboral moderno y las claves que te diferencian como joven estratega. El texto resalta la pasión, disciplina y humildad como motores de crecimiento. A través de anécdotas personales, explora cómo cada paso, incluso los inciertos, contribuye a definir una carrera con sentido.</p><embed src=\"Better than a cover letter.pdf\" width=\"100%\" height=\"500px\" type=\"application/pdf\" /><hr><ul><li><strong>Reflexiones de una practicante</strong></li></ul><p><em>Reflexiones de una practicante</em> documenta tu experiencia en una startup, desde el aprendizaje en herramientas digitales hasta liderar procesos operativos. Es una crónica de adaptación, empatía y liderazgo en entornos dinámicos. Aporta lecciones sobre eficiencia, integración de equipos y visión organizacional.</p><embed src=\"Reflexiones de una practicante.pdf\" width=\"100%\" height=\"500px\" type=\"application/pdf\" />')">
+    Escritos
+  </div>
+  <div class="result-url">www.valeria.com/escritos</div>
+  <div class="result-snippet">Reflexiones personales y profesionales que demuestran mi pensamiento estratégico, autoconocimiento y estilo narrativo.</div>
+</div>
+
+<!-- Aquí irán las secciones en formato Google -->
+
+<!-- 1. Escritos -->
+<div class="result">
+  <div class="result-title" onclick="openModal('<h3>Escritos</h3><ul><li><strong>Better than a Cover Letter</strong></li></ul><p><em>Better than a Cover Letter</em> es una reflexión profunda sobre la identidad profesional, la búsqueda de propósito en el mercado laboral moderno y las claves que te diferencian como joven estratega. El texto resalta la pasión, disciplina y humildad como motores de crecimiento. A través de anécdotas personales, explora cómo cada paso, incluso los inciertos, contribuye a definir una carrera con sentido.</p><embed src=\"Better than a cover letter.pdf\" width=\"100%\" height=\"500px\" type=\"application/pdf\" /><hr><ul><li><strong>Reflexiones de una practicante</strong></li></ul><p><em>Reflexiones de una practicante</em> documenta tu experiencia en una startup, desde el aprendizaje en herramientas digitales hasta liderar procesos operativos. Es una crónica de adaptación, empatía y liderazgo en entornos dinámicos. Aporta lecciones sobre eficiencia, integración de equipos y visión organizacional.</p><embed src=\"Reflexiones de una practicante.pdf\" width=\"100%\" height=\"500px\" type=\"application/pdf\" />')">
+    Escritos
+  </div>
+  <div class="result-url">www.valeria.com/escritos</div>
+  <div class="result-snippet">Reflexiones personales y profesionales que demuestran mi pensamiento estratégico, autoconocimiento y estilo narrativo.</div>
+</div>
+
+<!-- 2. Hobbies y Actividades Extracurriculares -->
+<div class="result">
+  <div class="result-title" onclick="openModal('<h3>Hobbies y Actividades Extracurriculares</h3><ul><li><strong>Debate y MUN:</strong> Miembro activo del Comillas Debate Club desde 2024, participando en simulaciones de MUN y talleres de habilidades blandas como negociación, oratoria y argumentación sobre política global. Integrante del Peruvian Debate Society (PDS), donde me preparé para conferencias como Harvard WorldMUN (premio Verbal Commendation) y USILMUN (premio Outstanding Delegate). Además, fui facilitadora del programa UNESCO Center for Peace, enseñando habilidades de debate y pensamiento crítico a estudiantes internacionales. Recientemente representé a Italia en el comité de la OTAN en MUNUSAL (Modelo de Naciones Unidas Universidad de Salamanca), donde debatimos sobre tensiones entre la OTAN y Rusia en el contexto de la guerra en Ucrania y las implicancias geoestratégicas de la Iniciativa de la Franja y la Ruta de China en el Medio Oriente. Esta experiencia fortaleció mis competencias en:<ul><li>🤝 Negociación empática</li><li>🧭 Liderazgo colaborativo</li><li>🧠 Argumentación constructiva orientada a soluciones</li></ul>Además, me permitió conectar con personas de distintas partes del mundo y nutrirme de perspectivas culturales diversas gracias a la convivencia fuera del comité. Agradezco a Universidad Pontificia Comillas ICAI-ICADE por impulsarnos a participar, y a Isabel Pisani Monroy y Alejandro Martínez Caballero por motivarme a sumarme a este reto.</li><li><strong>Escritura creativa:</strong> Desarrollo de textos personales y profesionales que integran storytelling, autoconocimiento y reflexión estratégica. Puedes ver ejemplos en la sección <a href=\"#\" onclick=\"openModal(document.querySelector('.result-title').innerHTML)\">Escritos</a>.</li><li><strong>Fotografía:</strong> Captura de momentos espontáneos, especialmente en viajes y eventos académicos, como herramienta de expresión visual.</li><li><strong>Organización de eventos:</strong> Experiencia en planificación y ejecución de actividades para causas sociales, académicas y de networking.</li><li><strong>Voluntariado:</strong> Iniciativas junto a Best Buddies Spain para promover la inclusión de personas con discapacidad intelectual en entornos escolares.</li></ul>')">
+    Hobbies y Actividades Extracurriculares
+  </div>
+  <div class="result-url">www.valeria.com/hobbies</div>
+  <div class="result-snippet">MUN, escritura, fotografía, voluntariado y organización de eventos con propósito social y creativo.</div>
+</div>
+
+<!-- 3. Educación (ejemplo parcial) -->
+<div class="result">
+  <div class="result-title" onclick="openModal('<h3>Universidad Pontificia Comillas (ICADE) – BBA</h3><p>Estudiante del Grado en Administración y Dirección de Empresas (BBA) completamente en inglés. Elegida delegada de clase durante dos años consecutivos por votación estudiantil, representando a mis compañeros ante la facultad.</p><ul><li>Participación activa en el Comillas Debate Club y MUN Comillas</li><li>Intercambio de ideas en ambientes académicos multiculturales</li><li>Enfoque en pensamiento estratégico, liderazgo ético y visión internacional</li></ul>')">
+    Universidad Pontificia Comillas (ICADE) – BBA
+  </div>
+  <div class="result-url">www.valeria.com/educacion/comillas</div>
+  <div class="result-snippet">Grado en inglés, liderazgo estudiantil y debate académico en Comillas.</div>
+</div>
+
+<!-- 4. Experiencia Profesional -->
+<div class="result">
+  <div class="result-title" onclick="openModal('<h3>Experiencia Profesional</h3><ul><li><strong>Greamspot USA LLC – Digital Marketing Strategist Trainee</strong></li></ul><p>Bajo la mentoría directa del CEO, colaboro en la creación de estrategias innovadoras centradas en posicionamiento de marca, campañas publicitarias, funnels de venta y análisis de métricas. Me enfoco en branding, segmentación de audiencias, automatización, IA y creación de contenido estratégico para LinkedIn. Además, edito artículos, desarrollo captions persuasivos y apoyo en iniciativas educativas, inspiradoras y de entretenimiento.</p><ul><li>Participación en el programa Growth Marketing and High-Ticket Sales (GMS)</li><li>Apoyo en el proyecto cultural gastronómico <a href=\"#\">Raíces</a>, liderado por el CEO de Greamspot</li></ul>')">
+    Experiencia Profesional
+  </div>
+  <div class="result-url">www.valeria.com/experiencia</div>
+  <div class="result-snippet">Consultora en marketing digital estratégico con enfoque en branding, funnels y contenido persuasivo en Greamspot.</div>
+</div>
+
+<!-- 5. Proyectos -->
+<div class="result">
+  <div class="result-title" onclick="openModal('<h3>Proyectos</h3><ul><li><strong>Raíces – Drink Truck en Miami</strong></li></ul><p>Proyecto liderado por el CEO de Greamspot, donde colaboré en el diseño de la estrategia de lanzamiento, identidad visual y creación de contenido para redes sociales. Raíces celebra la cultura peruana a través de cócteles a base de pisco y experiencias gastronómicas móviles.</p><hr><ul><li><strong>Consultoría Social Empresarial ICADE</strong></li></ul><p>Con Best Buddies Spain promovemos marchas escolares de inclusión para personas con discapacidad intelectual. He colaborado en planificación, contacto con instituciones y coordinación de eventos.</p><hr><ul><li><strong>TEDx UComillas – Content Team</strong></li></ul><p>Capté y redacté los aprendizajes clave de las ponencias, conectando con speakers como Rosa Siles, Marta Echarri y Paula Fernández-Ochoa. Exploré temas de IA, liderazgo, marca personal y estrategias de éxito. El networking final me permitió reflexionar sobre el arte del Topalantismo y el valor de conectar desde la empatía.</p>')">
+    Proyectos
+  </div>
+  <div class="result-url">www.valeria.com/proyectos</div>
+  <div class="result-snippet">Raíces, TEDx UComillas y consultoría social con impacto real y propósito.</div>
+</div>
+
+<!-- 6. Cursos y Certificados -->
+<div class="result">
+  <div class="result-title" onclick="openModal('<h3>Cursos y Certificados</h3><ul><li><strong>Microsoft Excel Avanzado – New Horizons</strong></li></ul><p>Curso de 16 horas enfocado en tablas dinámicas, análisis de datos, macros y productividad profesional. <br><img src=\"Diploma Excel Avanzado.pdf\" style=\"max-width:100%; margin-top:15px;\" /></p><hr><ul><li><strong>Mercados Financieros y Estrategias de Inversión – ESAN</strong></li></ul><p>Curso de 24 horas. Análisis bursátil, portafolios y decisiones estratégicas. <br><img src=\"Diploma Mercados Financieron y Estrategias de Inversión .pdf\" style=\"max-width:100%; margin-top:15px;\" /></p><hr><ul><li><strong>Harvard WorldMUN – Verbal Commendation</strong></li><li><strong>USILMUN – Outstanding Delegate</strong></li></ul>')">
+    Cursos / Certificados
+  </div>
+  <div class="result-url">www.valeria.com/certificados</div>
+  <div class="result-snippet">Cursos ejecutivos, diplomados, y reconocimientos en MUNs de prestigio internacional.</div>
+</div>
+
+<!-- 7. Habilidades -->
+<div class="result">
+  <div class="result-title" onclick="openModal('<h3>Habilidades Profesionales</h3><ul><li><strong>Marketing & Ventas B2B</strong>: Funnels, CRM, Meta Ads, branding y automatización</li><li><strong>Gestión de proyectos</strong>: Liderazgo, planificación y ejecución eficiente</li><li><strong>Storytelling y redacción estratégica</strong>: Creatividad con propósito</li><li><strong>Adaptabilidad y resolución de problemas</strong>: Trabajo ágil y versátil</li><li><strong>Atención al detalle, análisis y pensamiento crítico</strong></li></ul>')">
+    Habilidades Profesionales
+  </div>
+  <div class="result-url">www.valeria.com/habilidades</div>
+  <div class="result-snippet">Marketing digital, estrategia, liderazgo, análisis de datos y redacción con propósito.</div>
+</div>
+
+<!-- 8. Idiomas -->
+<div class="result">
+  <div class="result-title" onclick="openModal('<h3>Idiomas</h3><ul><li><strong>Español:</strong> Lengua materna</li><li><strong>Inglés (C1 – Linguaskills):</strong> Educación bilingüe (Colegio Carmelitas), estudios universitarios en inglés y participación activa en MUNs internacionales</li></ul>')">
+    Idiomas
+  </div>
+  <div class="result-url">www.valeria.com/idiomas</div>
+  <div class="result-snippet">Español nativo e inglés avanzado. Formación bilingüe y debate académico internacional.</div>
+</div>
+
+<!-- 9. LinkedIn -->
+<div class="result">
+  <div class="result-title" onclick="window.open('https://www.linkedin.com/in/valeria-contreras0/', '_blank')">
+    Perfil de LinkedIn
+  </div>
+  <div class="result-url">www.linkedin.com/in/valeria-contreras0</div>
+  <div class="result-snippet">Explora más sobre mi trayectoria profesional, logros y conexiones en LinkedIn.</div>
+</div>
+
+</body>
+</html>

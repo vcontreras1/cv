@@ -114,7 +114,6 @@ I found no recent salary or placement report for ICADE. The only retrievable ICA
 - An old Comillas report (2004–05 cohort) shows 88.6% of ICADE graduates employed, finding their first job in 2.15 months on average. — [Comillas insertion report PDF](https://sp.upcomillas.es/Documentos%20compartidos/Informes%20Calidad%20titulaciones%20de%20Grado/Informe%20Inserci%C3%B3n%20laboral%20(2%20a%C3%B1os%20despu%C3%A9s%20de%20acabar%20la%20titulaci%C3%B3n)/Informe%20Inserci%C3%B3n%20laboral%20%20(04-05).pdf)
 - The Fundación BBVA–Ivie U-Ranking 2024 tracks graduates' salaries (social-security contribution bases) for each university, using the 2013–2018 cohorts. — [Fundación BBVA](https://www.fbbva.es/noticias/informe-insercion-laboral-jovenes-uranking-2024/)
 - FT Global MBA 2025: IESE 3rd worldwide and 1st in Europe, Esade 8th, IE 18th. Esade graduates' salaries rose 173% over their pre-MBA pay. — [Marcas Renombradas](https://www.marcasrenombradas.com/los-mba-de-iese-esade-e-ie-business-school-entre-los-mejores-del-mundo-segun-financial-times-en-2025/)
-- THE Employability 2026: IE University 17th, Universidad de Navarra 35th. Cited in a search summary; no direct URL captured.
 
 ### Inferences
 - From the employer rankings above, ICADE business graduates most plausibly enter the Big Four (Deloitte, EY, KPMG, PwC), Accenture, investment and retail banks (BBVA, Santander, CaixaBank) and strategy consulting. This is not backed by an ICADE placement report.
@@ -122,6 +121,7 @@ I found no recent salary or placement report for ICADE. The only retrievable ICA
 ### Gaps
 - ICADE (E-2, E-3, E-4) starting salaries and destination employers for 2024–2026.
 - Expansión and El Mundo "50 carreras" salary data. Neither was retrieved.
+- A search summary said the THE Employability ranking 2026 puts IE University 17th and Universidad de Navarra 35th, but no source URL was captured, so this is unverified.
 
 ## Q5. Employee satisfaction and purpose at work in Spain (innovation roles)
 

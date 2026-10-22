@@ -26,12 +26,12 @@ Idioma: el del destino (inglés si la aplicación está en inglés). Las explica
 
 ## Qué destacar primero
 1. **Sus dos experiencias profesionales más recientes son las que más pesan:** Greamspot USA (con Raíces) y Glow Experience. Pendiente de que Valeria confirme que son esas dos y no las prácticas en el banco.
-2. Sus dos puntos fuertes en la universidad: **el club de marketing y estrategia que fundó en ICADE** y **el Content Team de TEDx UComillas**.
+2. Sus dos puntos fuertes en la universidad: **el Comillas Marketing & Strategy Club, que fundó ella** y **el Content Team de TEDx UComillas**.
 3. Otros cargos: delegada de clase.
 4. El debate y los MUN son de sus primeros años de universidad y del colegio, así que **nunca van como protagonistas**. Como mucho, una mención breve al final o en preguntas que traten de comunicación.
 
 ## Historias y datos reutilizables
-- **Club de marketing y estrategia en ICADE, fundado por ella desde cero.** Quería innovar y aportar algo nuevo a la cultura de ICADE. Fue un reto exigente, pero sobre todo motivador.
+- **Comillas Marketing & Strategy Club**, fundado por ella desde cero en ICADE. Quería innovar y aportar algo nuevo a la cultura de ICADE. Fue un reto exigente, pero sobre todo motivador.
   - Lo empezó "con mucho cariño". Su idea siempre fue que los demás vieran tanto valor en el club que quisieran unirse, participar e incluso heredarlo.
   - Sus aprendizajes: vender una idea a quien todavía no cree en ella, y conseguir buenos resultados con pocos recursos.
   - Hicieron activaciones pensadas para conectar con su generación: golden tickets en chocolates Milka y cartas de San Valentín repartidas por Amazon. "Nos divertimos muchísimo."

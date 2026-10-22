@@ -23,7 +23,7 @@ Idioma: el del destino (inglés si la aplicación está en inglés). Las explica
 ## Reglas
 - No inventar logros, cifras ni anécdotas. Todo dato debe salir del `cv`, de sus escritos o de lo que ella diga en la conversación. Si falta un dato, preguntárselo.
 - El inglés debe quedar correcto y natural, manteniendo su ritmo. No hay que copiar los pequeños errores de sus borradores.
-- **Cuenta sus actividades como historias, no como listas de logros:** cuál era el reto, qué hizo ella y qué cambió. Las cifras van como mucho de apoyo. Le gusta que el texto entero se lea como un **arco de personaje**: de dónde viene, el punto de giro, dónde está ahora y hacia dónde va. Si el cierre puede volver al principio, mejor.
+- **Cuenta sus actividades como historias, no como listas de logros:** cuál era el reto, qué hizo ella y qué cambió. Las cifras van como mucho de apoyo. Le gusta que el texto entero se lea como un **arco de personaje**: de dónde viene, el punto de giro, dónde está ahora y hacia dónde va. Si el cierre puede volver al principio, mejor. El arco empieza en su etapa universitaria o profesional: **no uses anécdotas de su infancia**.
 - En aplicaciones prefiere un tono **persuasivo y motivador**, centrado en qué la mueve y por qué hace lo que hace. No uses el párrafo de "ambition alone doesn't guarantee the right decisions" ni el cambio de Ingeniería a ADE como argumento para pedir mentoría: pidió quitarlo de la respuesta de NOVA.
 
 ## Qué destacar primero

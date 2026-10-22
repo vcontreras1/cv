@@ -75,6 +75,7 @@ El archivo `cv` (HTML) está **desactualizado**. Estos son los datos buenos, sac
   - Hicieron activaciones pensadas para conectar con su generación: golden tickets en chocolates Milka y cartas de San Valentín repartidas por Amazon. "Nos divertimos muchísimo."
 - **TEDx UComillas, Content Team.** Recogía y redactaba los aprendizajes clave de las charlas. Conectó con ponentes como Rosa Siles, Marta Echarri y Paula Fernández-Ochoa sobre IA, liderazgo y marca personal. El networking le hizo reflexionar sobre el *Topalantismo* y el valor de conectar desde la empatía.
 - **"People told me I could do anything",** algo que más que liberarla la abrumaba. Estudió dos años de Ingeniería antes de cambiarse a ADE (BBA) en Comillas, Madrid. La base de ingeniería le ayudó mucho.
+- **Su visión de los 20s, en sus propias palabras:** son inciertos, pero siempre procura tomar las decisiones más informadas. Eso solo lo consigue escuchando a gente que admira, que se mantiene informada y quiere cambiar cómo se entienden los negocios.
 - **Lo que de verdad la mueve:** estrategia, visión, negociación, análisis de patrones, creatividad, disrupción, reflexión y toma de decisiones. Un equilibrio entre lo técnico y lo comercial.
 - **Glow Experience** (startup de pulseras LED para eventos), prácticas en el área comercial:
   - Hacía scouting de prospectos, cotizaciones y facturas, y usaba HubSpot Sales y CRM, en un equipo 100 % remoto.

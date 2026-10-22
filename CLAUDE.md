@@ -25,10 +25,47 @@ Idioma: el del destino (inglés si la aplicación está en inglés). Las explica
 - El inglés debe quedar correcto y natural, manteniendo su ritmo. No hay que copiar los pequeños errores de sus borradores.
 
 ## Qué destacar primero
-1. **Sus dos experiencias profesionales más recientes son las que más pesan: Suntory y Santalucía.** Todavía faltan los detalles (puesto, fechas, funciones y logros); hay que pedírselos y no inventarlos. Glow Experience y Greamspot USA (con Raíces) quedan como experiencias de apoyo.
+1. **Sus dos experiencias profesionales más recientes son las que más pesan: Santalucía y Suntory.** Las demás (OVB, GreamSpot, Glow, Santander, IncaXtreme) son de apoyo.
 2. Sus dos puntos fuertes en la universidad: **el Comillas Marketing & Strategy Club, que fundó ella** y **el Content Team de TEDx UComillas**.
 3. Otros cargos: delegada de clase.
 4. El debate y los MUN son de sus primeros años de universidad y del colegio, así que **nunca van como protagonistas**. Como mucho, una mención breve al final o en preguntas que traten de comunicación.
+
+## CV actual (v4, octubre 2026)
+El archivo `cv` (HTML) está **desactualizado**. Estos son los datos buenos, sacados del CV v4 que se hizo en la sesión "CV actualización Santalucía":
+
+**Educación.** BBA en Comillas ICADE, impartido en inglés (sept 2022 – may 2026). Antes estudió dos años de Ingeniería. Inglés C2 (Cambridge), español nativo.
+
+**Experiencia, de más reciente a más antigua:**
+- **Santalucía Seguros, Corporate Innovation Intern, a tiempo completo** (jul 2026 – actualidad):
+  - Busca y evalúa startups e insurtechs como posibles socios o inversiones.
+  - Coordina pruebas de concepto (PoCs) y pilotos entre las startups y las unidades de negocio.
+  - Investiga tendencias de IA, insurtech y nuevos modelos de negocio, y prepara informes para dirección.
+- **Suntory Global Spirits, Market Development Commercialization Intern** (oct 2025 – jun 2026):
+  - Ejecución de la estrategia de marca e iniciativas entre áreas.
+  - Análisis semanal de ventas por SKU.
+  - Coordinación entre marketing, finanzas y ventas.
+- **OVB Allfinanz, Financial Consultant** (jun – sept 2025): cartera de más de 10 clientes; el 76 % de las primeras reuniones terminaron en contrato firmado.
+- **GreamSpot USA, Digital Marketing Strategist Trainee, freelance en remoto** (feb – ago 2025): +46 % en conversión de leads y estrategias de crecimiento para clientes *high-ticket*. Trabajó con el CEO como mentor.
+- **Glow Experience, Strategy and Commercial Intern** (oct 2024 – ene 2025): ventas B2B y 29 clientes nuevos cerrados con HubSpot.
+- **Santander (Lima), Corporate Banking Summer Intern** (jun – ago 2024): propuestas de crédito y apoyo en la gestión de cartera.
+- **IncaXtreme (Lima), Marketing Executive** (2020 – 2022).
+
+**Actividades:**
+- **Hogarea, cofundadora. Finalista de Santalucía Impulsa 2026** (Senior Challenge):
+  - Plataforma de convivencia intergeneracional que conecta a personas mayores con una habitación libre y jóvenes que buscan alquiler asequible.
+  - Ella hizo la landing con Lovable.
+  - Campaña de 482 €: más de 28.000 personas alcanzadas y 171 leads a 2,82 €, unas 6 veces por debajo del benchmark inmobiliario.
+- **Comillas Marketing & Strategy Club, fundadora y presidenta:**
+  - 100 miembros en el primer año.
+  - Eventos con empresas con una media de 70 asistentes.
+  - Programa de consultoría rotativo: 25 estudiantes, 3 startups y 5 organizaciones universitarias.
+- **Start Comillas, vicepresidenta:** organizó la edición universitaria del Hult Prize.
+- **TEDxUComillas:**
+  - Content Creation & Marketing Manager (2024–2025), luego ascendida a Co-Organizer (2025–2026).
+  - Consiguió patrocinios para cubrir un presupuesto de 10.000 €, coordinó equipos y logró +86 % de engagement.
+- **Delegada de clase** dos años seguidos.
+- Peruvian Debate Society (2021–2022) y UNESCO Center for Peace (2022, formó a estudiantes de más de 100 nacionalidades).
+- Escribe sobre crecimiento personal y profesional en LinkedIn.
 
 ## Historias y datos reutilizables
 - **Comillas Marketing & Strategy Club**, fundado por ella desde cero en ICADE. Quería innovar y aportar algo nuevo a la cultura de ICADE. Fue un reto exigente, pero sobre todo motivador.
@@ -44,4 +81,4 @@ Idioma: el del destino (inglés si la aplicación está en inglés). Las explica
   - Cuando su jefe directo se fue, asumió el área comercial con el apoyo del CEO y formó a los nuevos practicantes.
   - Se dio cuenta de que había oportunidades de negocio que no se registraban en HubSpot: los correos de ciertas cuentas IMAP en Mac no se sincronizaban. Investigó hasta encontrar qué tenían en común esas cuentas y propuso comprar una licencia Exchange.
 - **Prácticas en un banco:** pasaba estados financieros a un programa para analizar liquidez, apalancamiento y rentabilidad. Participó en negociaciones entre el área comercial y el departamento de riesgos.
-- Para todo lo demás (Greamspot, Raíces, MUN, TEDx, Best Buddies, delegada de clase, idiomas, cursos), consulta el archivo `cv`.
+- Para detalles antiguos que no están arriba (Raíces, Best Buddies, MUNUSAL, cursos), consulta el archivo `cv`, sabiendo que está desactualizado.

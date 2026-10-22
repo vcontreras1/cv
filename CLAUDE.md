@@ -25,7 +25,7 @@ Idioma: el del destino (inglés si la aplicación está en inglés). Las explica
 - El inglés debe quedar correcto y natural, manteniendo su ritmo. No hay que copiar los pequeños errores de sus borradores.
 
 ## Qué destacar primero
-1. **Sus dos experiencias profesionales más recientes son las que más pesan:** Greamspot USA (con Raíces) y Glow Experience. Pendiente de que Valeria confirme que son esas dos y no las prácticas en el banco.
+1. **Sus dos experiencias profesionales más recientes son las que más pesan: Suntory y Santalucía.** Todavía faltan los detalles (puesto, fechas, funciones y logros); hay que pedírselos y no inventarlos. Glow Experience y Greamspot USA (con Raíces) quedan como experiencias de apoyo.
 2. Sus dos puntos fuertes en la universidad: **el Comillas Marketing & Strategy Club, que fundó ella** y **el Content Team de TEDx UComillas**.
 3. Otros cargos: delegada de clase.
 4. El debate y los MUN son de sus primeros años de universidad y del colegio, así que **nunca van como protagonistas**. Como mucho, una mención breve al final o en preguntas que traten de comunicación.

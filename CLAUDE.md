@@ -25,11 +25,17 @@ Idioma: el del destino (inglés si la aplicación está en inglés). Las explica
 - El inglés debe quedar correcto y natural, manteniendo su ritmo. No hay que copiar los pequeños errores de sus borradores.
 
 ## Qué destacar primero
-1. La experiencia profesional reciente: Glow Experience, Greamspot USA y Raíces.
-2. El liderazgo actual: delegada de clase y los proyectos de la universidad.
-3. El debate y los MUN son de sus primeros años de universidad y del colegio, así que **nunca van como protagonistas**. Como mucho, una mención breve al final o en preguntas que traten de comunicación.
+1. Sus dos puntos fuertes en la universidad: **el club de marketing y estrategia que fundó en ICADE** y **el Content Team de TEDx UComillas**.
+2. La experiencia profesional reciente: Glow Experience, Greamspot USA y Raíces.
+3. Otros cargos: delegada de clase.
+4. El debate y los MUN son de sus primeros años de universidad y del colegio, así que **nunca van como protagonistas**. Como mucho, una mención breve al final o en preguntas que traten de comunicación.
 
 ## Historias y datos reutilizables
+- **Club de marketing y estrategia en ICADE, fundado por ella desde cero.** Quería innovar y aportar algo nuevo a la cultura de ICADE. Fue un reto exigente, pero sobre todo motivador.
+  - Lo empezó "con mucho cariño". Su idea siempre fue que los demás vieran tanto valor en el club que quisieran unirse, participar e incluso heredarlo.
+  - Sus aprendizajes: vender una idea a quien todavía no cree en ella, y conseguir buenos resultados con pocos recursos.
+  - Hicieron activaciones pensadas para conectar con su generación: golden tickets en chocolates Milka y cartas de San Valentín repartidas por Amazon. "Nos divertimos muchísimo."
+- **TEDx UComillas, Content Team.** Recogía y redactaba los aprendizajes clave de las charlas. Conectó con ponentes como Rosa Siles, Marta Echarri y Paula Fernández-Ochoa sobre IA, liderazgo y marca personal. El networking le hizo reflexionar sobre el *Topalantismo* y el valor de conectar desde la empatía.
 - **"People told me I could do anything",** algo que más que liberarla la abrumaba. Estudió dos años de Ingeniería antes de cambiarse a ADE (BBA) en Comillas, Madrid. La base de ingeniería le ayudó mucho.
 - **Lo que de verdad la mueve:** estrategia, visión, negociación, análisis de patrones, creatividad, disrupción, reflexión y toma de decisiones. Un equilibrio entre lo técnico y lo comercial.
 - **Glow Experience** (startup de pulseras LED para eventos), prácticas en el área comercial:

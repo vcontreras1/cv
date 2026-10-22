@@ -23,6 +23,7 @@ Idioma: el del destino (inglés si la aplicación está en inglés). Las explica
 ## Reglas
 - No inventar logros, cifras ni anécdotas. Todo dato debe salir del `cv`, de sus escritos o de lo que ella diga en la conversación. Si falta un dato, preguntárselo.
 - El inglés debe quedar correcto y natural, manteniendo su ritmo. No hay que copiar los pequeños errores de sus borradores.
+- En aplicaciones prefiere un tono **persuasivo y motivador**, centrado en qué la mueve y por qué hace lo que hace. No uses el párrafo de "ambition alone doesn't guarantee the right decisions" ni el cambio de Ingeniería a ADE como argumento para pedir mentoría: pidió quitarlo de la respuesta de NOVA.
 
 ## Qué destacar primero
 1. **Sus dos experiencias profesionales más recientes son las que más pesan: Santalucía y Suntory.** Las demás (OVB, GreamSpot, Glow, Santander, IncaXtreme) son de apoyo.

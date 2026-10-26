@@ -2,6 +2,8 @@
 
 Contexto: Valeria, BBA en inglés (Comillas ICADE, junio 2026), becaria en Santalucía. Perfil de marketing digital y estrategia, nacionalidad UE, español nativo, inglés C1, y le importa mucho el propósito. Notas tomadas el 26/10/2026.
 
+**ACTUALIZACIÓN DEL ALCANCE (preferencia de la usuaria):** Valeria NO busca más prácticas. Solo le interesan empleos junior a tiempo completo (0-2 años de experiencia) y programas graduate con contrato. Por eso, para Santalucía la pregunta es cómo pasar de la beca a un contrato junior, o cómo saltar a un puesto junior en otra empresa. Las becas e internships de otras empresas se mencionan solo como contexto y no se recomiendan.
+
 Nota de método: Firecrawl tenía límite de peticiones (rate limit), así que se combinó con WebSearch. Las reseñas de Glassdoor se copiaron literalmente de las páginas rastreadas, salvo donde se indica "snippet" (solo el extracto del buscador). No hay citas inventadas. La fecha aparece cuando la página la mostraba.
 
 ---
@@ -35,12 +37,14 @@ Sí. Santalucía tiene una función de innovación corporativa estable, dirigida
 
 ### Inferences
 - La innovación en Santalucía es real e institucional: lleva casi 10 años con IMPULSA, tiene un director corporativo y líneas de inversión. Pero la cultura general es conservadora. El mayor valor de la beca está en la **exposición y las relaciones** con el equipo de innovación (IMPULSA, LAB, intraemprendimiento) más que en una conversión automática.
-- Formas concretas de aprovechar la beca:
-  1. Pedir participar en IMPULSA: scouting de startups, evaluación de candidaturas, demo day o comunicación digital del programa, que encaja con su perfil de marketing.
-  2. Pedir un café con Uzquiza o su equipo usando el vínculo Comillas.
-  3. Documentar logros medibles, como pilotos o campañas, para el CV.
-  4. Preguntar pronto a RR. HH. si hay vacante presupuestada o un programa de jóvenes talentos.
-  5. Usar el ecosistema de startups de IMPULSA como red para saltar a una insurtech.
+- **Objetivo: un contrato junior, no otra beca.** Las dos reseñas de becarios hablan de cero conversión. La estrategia tiene dos vías en paralelo:
+  - **Vía A, conversión interna:**
+    1. Preguntar ya a su tutor/a y a RR. HH. si hay plaza junior presupuestada (de técnico, analista o marketing digital) para cuando termine la beca, y en qué fecha se decide.
+    2. Pedir que la asignen o la presten a IMPULSA o a innovación (scouting, evaluación de startups, demo day, comunicación digital del programa) para ganar visibilidad ante el área que podría abrir una plaza.
+    3. Pedir un café con Uzquiza usando el vínculo Comillas.
+    4. Revisar las ofertas internas de Santalucía. En octubre de 2026 hay vacantes en Madrid en datos y TI (Data Scientist, arquitectura), lo que indica que sí se contrata en el área digital.
+    5. Documentar resultados cuantificados para usarlos como argumento.
+  - **Vía B, puesto junior fuera:** usar la red de IMPULSA (startups y otras aseguradoras del ecosistema) como fuente de ofertas junior a tiempo completo. Postular desde ya a programas graduate con plazos de otoño (ver sección 2) para tener alternativa si en Santalucía no hay plaza.
 - Una conversión baja es habitual en becas de grandes aseguradoras españolas cuando no hay vacante abierta. Es una inferencia, no un dato publicado.
 
 ### Gaps
@@ -71,7 +75,17 @@ En España, las opciones con más estructura de innovación son **Mapfre** (MAPF
 - **Wefox** (Berlín): su valoración máxima fue de 4.500 M$ en 2022. En 2023 despidió a menos del 10 % de unos 1.400 empleados. En 2025 el fundador Julian Teicke dejó el cargo de CEO y la empresa obtuvo unos 151 M€ (76 M€ de ampliación y 75 M€ de refinanciación). Vendió las filiales de Liechtenstein e Italia, se centró en sus mercados principales y declara ir camino de la rentabilidad en 2025. En 2023 perdió 141 M€. — [Das Investment](https://www.dasinvestment.com/wefox-finanzierung-insuretch-joachim-mueller-julian-teicke/); [Coverager](https://coverager.com/layoffs-at-wefox/); [TechCrunch](https://techcrunch.com/2022/07/11/wefox-grabs-400m-at-4-5b-valuation-to-buck-the-insurtech-downturn-trend)
 - **Allianz**: los programas graduate de 2026 que se encontraron son Allianz Global Investors (16 meses, 2-3 rotaciones, una internacional, en Múnich, Frankfurt, París, Luxemburgo y Taipéi, con puesto permanente al terminar), Allianz Central Europe (16 meses, 3-4 rotaciones, inicio en septiembre de 2026, Polonia) y Allianz Ireland (3 años, 4 rotaciones). — [PW Warsaw – AllianzGI 2026](https://bk.pw.edu.pl/aktualnosci/allianzgi-graduate-programme-2026); [SGH – Allianz CE 2026](https://kariera.sgh.waw.pl/aktualnosci/graduate-programme-2026-allianz-central-europe); [Allianz Ireland](https://careers.allianz.com/ie/en/graduate-programme)
 
+**Puestos junior a tiempo completo y programas graduate (no prácticas), octubre de 2026**
+- **Alan (Madrid/Barcelona, a tiempo completo, híbrido)**: en su portal en octubre de 2026 tiene en España "General Manager Associate - Spain" (equipo Associates), "Sales Planning & Strategy" (Business Strategy & Operations), "Operations Expert", "Care Expert - Spain" y "Account Executive - Spain" (Madrid y Barcelona). En otros mercados lista un "Insurance Graduate Program" y "Junior Business Developer - Belgian Market". Sus roles "Founder Associate" son internships, así que quedan descartados. — [Alan Jobs (Ashby)](https://jobs.ashbyhq.com/alan)
+- Ojo: el "General Manager Associate - Spain" pide **3-7 años** de experiencia en estrategia, operaciones o consultoría, así que no es un puesto junior. — [Remote Rocketship](https://www.remoterocketship.com/company/alan/jobs/general-manager-associate-madrid-hybrid/); [BilingualJobs](https://bilingualjobs.io/jobs/general-manager-associate-alan-725873379cd039d6). "Care Expert", "Operations Expert" y "Account Executive" no indican nivel en el listado, así que habría que comprobar la experiencia exigida en cada oferta. — [Alan Jobs](https://jobs.ashbyhq.com/alan)
+- **Swiss Re (Zúrich)**: tiene un programa graduate de 18 meses que empieza el 1 de septiembre (2026, y en algún caso 2027). Admite grado, máster o doctorado con **hasta 3 años de experiencia**. Hay plazas en Group Strategy, Investor Relations, Business Development Analyst, Group Finance y Junior Underwriter (con mercados europeos). En Group Strategy, el sueldo se comunica durante el proceso. El tipo de contrato no aparece en las ofertas. — [Swiss Re – Group Strategy Graduate](https://corporatesolutions.swissre.com/careers/job/Group-Strategy-Graduate/1243264201); [Business Development Analyst Graduate](https://corporatesolutions.swissre.com/careers/job/Business-Development-Analyst-Graduate/1243194701); [Junior Underwriter Graduate](https://corporatesolutions.swissre.com/careers/job/Junior-Underwriter-Facultative-Property-Graduate/1242856901); [Financial Reporting Analyst Graduate 2027](https://www.swissre.com/careers/job/Financial-Reporting-Analyst-Graduate/1437841033). Swiss Re también tiene oficina en Madrid. — [Swiss Re Spain](https://www.swissre.com/careers/spain.html)
+- **Allianz**: el programa graduate de AllianzGI 2026 dura 16 meses y **ofrece puesto permanente al terminar**. El de Allianz Central Europe 2026 dura 16 meses. El de Allianz Ireland dura 3 años. Son programas graduate, no prácticas. — [PW – AllianzGI](https://bk.pw.edu.pl/aktualnosci/allianzgi-graduate-programme-2026); [SGH – Allianz CE](https://kariera.sgh.waw.pl/aktualnosci/graduate-programme-2026-allianz-central-europe); [Allianz Ireland](https://careers.allianz.com/ie/en/graduate-programme). Las ofertas de Allianz en Madrid se pueden filtrar en su portal. — [Allianz careers Madrid](https://careers.allianz.com/us/en/search-results?qcity=Madrid)
+- **Mapfre**: el único programa para recién titulados que se encontró es el "Global Trainee Program" de 2015 (6 meses, ADE/actuariales/ingenierías, inglés C1). No hay datos de una edición 2025-2026. — [Mastermania](https://www.mastermania.com/noticias_masters/mapfre-busca-jovenes-recien-graduados-AMP-3524.html)
+- Agregadores en España: aparecen programas para recién titulados con **contrato indefinido** en Madrid (ADE, economía o ingeniería, desde 36.000 € más variable) y programas actuariales y de ciberseguridad con contrato indefinido. El agregador no identifica a la empresa, así que no se puede confirmar que sea una aseguradora. — [iAgora – graduate programmes Spain](https://www.iagora.com/work/en/graduate-programmes/health/spain)
+- Glassdoor Madrid, agosto de 2026: 54 ofertas de "junior analyst", algunas con 22-25k € indicados por la empresa, por ejemplo "Junior Specialist Credit, Tenancy & Insurance". — [Glassdoor](https://www.glassdoor.com/Job/madrid-junior-analyst-jobs-SRCH_IL.0,6_IC2664239_KO7,21.htm)
+
 ### Inferences
+- Encaje con su perfil (marketing digital y estrategia, español nativo, inglés C1, 0-2 años): en Alan, Sales Planning & Strategy, Operations Expert o Account Executive (comprobando la experiencia exigida). En Swiss Re, el programa graduate de Business Development o Group Strategy (Zúrich, sueldo alto, plazos a mediados de noviembre que conviene vigilar para 2027). En Allianz, programas graduate con puesto permanente. En España, puestos de técnico o analista junior en marketing digital, customer experience o producto en Mutua, AXA, Sanitas o Mapfre, buscando directamente en sus portales.
 - Si el propósito pesa mucho (salud, protección), las mejores opciones son Alan (salud, misión explícita, la mejor valoración), Sanitas y la parte de salud de Mutua o AXA. Alan exige autonomía y un ritmo alto.
 - Para innovación y venture en España, Mutua Ventures y Mapfre Open Innovation son los vehículos corporativos más activos que se han documentado. Con equipos tan pequeños, se suele entrar como becaria o analista vía red de contactos. Esto es una inferencia.
 - Las insurtechs de la generación 2021, como Wefox (y, por lo que se sabe del sector, Luko, que no se verificó en esta búsqueda), pasaron por crisis. Antes de aceptar una oferta conviene revisar su financiación y despidos recientes.
@@ -80,6 +94,8 @@ En España, las opciones con más estructura de innovación son **Mapfre** (MAPF
 - No se verificaron datos actuales (2025-2026) de Getsafe, Luko, Lemonade EU, Bdeo, Coverfy, Wakam, Línea Directa, Generali, Zurich, VidaCaixa, Munich Re ni Swiss Re por límites de búsqueda y de tiempo.
 - No se confirmó si insur_space tuvo convocatoria en 2025.
 - No se encontraron cifras de sueldo de los programas graduate de Allianz ("competitive salary").
+- No se encontraron programas graduate 2026-2027 en España con contrato confirmado para Mapfre, Mutua, AXA España, Sanitas, Zurich, Generali ni Munich Re. Hay que revisar sus portales de empleo y LinkedIn ("programa graduados", "talento joven", "junior").
+- No se verificó la experiencia exigida en las ofertas de Alan sin nivel indicado.
 
 ---
 
